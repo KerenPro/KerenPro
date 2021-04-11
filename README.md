@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Hello-gif](https://media2.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif)
 
 ## :cat: About Me
